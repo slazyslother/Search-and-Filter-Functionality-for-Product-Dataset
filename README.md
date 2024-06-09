@@ -39,6 +39,7 @@ data efficiently.
 | `created_at`| `datetime` | The stock quantity of the product.|
 
 <br/>
+
 ## Popular Operations
 
 - __Full-Text Search__: Use algorithms like the inverted index or trie for efficient searching by name or description.
